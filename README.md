@@ -1,5 +1,5 @@
 # Kitchen Chaos 🍲
-![Kitchen Chaos Gameplay Screenshot](path/to/your/image.jpg)
+![Kitchen Chaos Logo](https://github.com/Utkarsh140503/GameProgramming/blob/main/Assets/_Assets/Textures/KitchenChaosLogo.png)
 
 Welcome to **Kitchen Chaos**, an exciting, fast-paced cooking game where you’re put in charge of a high-energy kitchen! Quickly prepare, assemble, and serve a variety of delicious meals to keep your customers satisfied before they lose patience. With vibrant visuals and thrilling time-management gameplay, *Kitchen Chaos* will keep you on your toes!
 
